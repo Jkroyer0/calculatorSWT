@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatorSWT", "calculatorSWT\calculatorSWT.csproj", "{95055150-249F-4894-BDCD-F7A531A66C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatorSWTtest", "calculatorSWTtest\calculatorSWTtest.csproj", "{B9FB5009-604B-4764-B330-012D1504779D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95055150-249F-4894-BDCD-F7A531A66C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95055150-249F-4894-BDCD-F7A531A66C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95055150-249F-4894-BDCD-F7A531A66C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95055150-249F-4894-BDCD-F7A531A66C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FB5009-604B-4764-B330-012D1504779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB5009-604B-4764-B330-012D1504779D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB5009-604B-4764-B330-012D1504779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB5009-604B-4764-B330-012D1504779D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE99F302-44CE-47ED-BCF7-864C1548546E}
+	EndGlobalSection
+EndGlobal
